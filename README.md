@@ -37,6 +37,10 @@ To run tests, enter the following command
 python -m pytest
 ```
 
+# PS
+
+I forked this reposirory because we worked on this application together. I am in contributor's list. And i didn't wrote only 21 lines of code, big section of our application was "pair-programmed" through jb CodeWithMe. But @AIM1rage worked hard on this app and made greater amount of feature than me. Enjoy
+
 ## Screenshots
 ![image](screenshots/running.png)
 ![image](screenshots/usage.png)
